@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "players":  0,
+        "id":  "test1",
+        "modpackVersion":  "1",
+        "ip":  "TEST12-ojdW.aternos.me",
+        "banner":  "",
+        "description":  "Server de test cu 3 moduri",
+        "owner":  "pablo_el_tigre",
+        "name":  "Test Server 1",
+        "modpackUrl":  "https://drive.google.com/uc?export=download\u0026id=1ga6uwBd5_HGszy0Sc-IX8-63aEW3rKdb",
+        "port":  59199
+    },
+    {
+        "players":  0,
+        "id":  "test2",
+        "modpackVersion":  "1",
+        "ip":  "TES4T211.aternos.me",
+        "banner":  "",
+        "description":  "Server de test cu 2 moduri",
+        "owner":  "pablo_el_tigre",
+        "name":  "Test Server 2",
+        "modpackUrl":  "https://drive.google.com/uc?export=download\u0026id=1CugAzMtS3bCbFofadbVZJqdvkoexv-gd",
+        "port":  11065
+    }
+]
